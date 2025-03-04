@@ -1,0 +1,17 @@
+com/lavasoft/GeoIPService.class
+com/lavasoft/GeoIPServiceHttpPost.class
+com/lavasoft/package-info.class
+com/lavasoft/ObjectFactory.class
+com/lavasoft/GetCountryISO2ByNameResponse.class
+com/lavasoft/GetLocationResponse.class
+com/lavasoft/GetLocation.class
+com/lavasoft/GeoIPServiceSoap.class
+com/lavasoft/GetIpLocation20.class
+com/lavasoft/GeoIPServiceHttpGet.class
+com/nivi/iptocountry/IPToCountry.class
+com/lavasoft/GetCountryISO2ByName.class
+com/lavasoft/GetIpLocation.class
+com/lavasoft/GetIpLocationResponse.class
+com/lavasoft/GetCountryNameByISO2Response.class
+com/lavasoft/GetIpLocation20Response.class
+com/lavasoft/GetCountryNameByISO2.class
